@@ -1,19 +1,21 @@
-Hi, I'm gladline krista 
+Hi there 👋 I'm Gladline Krista
 
-AI & Data Science Engineer
+AI Engineer | Computer Vision | Python Automation | Data Science
 
-Building  AI, Computer Vision and Data Engineering projects.
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-Currently
+🇮🇳 Coimbatore, India
 
-• Computer Vision @ PMDG Technologies
-• Healthcare Claims Automation
-• YOLOv8
-• Python Automation
-• Gemini LLM
-• AI Healthcare Claims Automation
-• Python
-• FastAPI
-• REST APIs
-• Browser Automation
-• EDI 835/837
+🎯 Aspiring AI & Data Engineer 
+
+My experience spans:
+
+- 🧠 Artificial Intelligence
+- 👁️ Computer Vision
+- 🐍 Python Automation
+- 📊 Data Science
+- 🏥 Healthcare AI
+- 🌍 IoT & ESG Analytics
+
+Currently building production-ready projects to prepare for AI/Data Engineering roles 
+
