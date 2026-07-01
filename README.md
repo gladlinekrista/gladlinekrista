@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @gladlinekrista
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+Hi, I'm gladline krista 
 
-<!---
-gladlinekrista/gladlinekrista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI & Data Science Engineer
+
+Building  AI, Computer Vision and Data Engineering projects.
+
+Currently
+
+• Computer Vision @ PMDG Technologies
+• Healthcare Claims Automation
+• YOLOv8
+• Python Automation
+• Gemini LLM
+• AI Healthcare Claims Automation
+• Python
+• FastAPI
+• REST APIs
+• Browser Automation
+• EDI 835/837
