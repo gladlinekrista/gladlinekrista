@@ -16,7 +16,7 @@ I build computer-vision pipelines, data tooling, and automation systems, from da
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -29,7 +29,7 @@ I build computer-vision pipelines, data tooling, and automation systems, from da
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages:** Python
 **ML / CV:** PyTorch, Ultralytics YOLO (v8 / 11), Segment Anything (SAM), OpenCV, Pillow, CUDA
@@ -42,7 +42,7 @@ I build computer-vision pipelines, data tooling, and automation systems, from da
 
 ---
 
-## 💼 Experience
+##  Experience
 
 - **[Role]**, Netix.ai: sensor/API data validation, cleaning, and reporting pipelines · [dates]
 - **[Role]**, PMDG: healthcare data automation and rule-based processing · [dates]
@@ -51,7 +51,7 @@ I build computer-vision pipelines, data tooling, and automation systems, from da
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - Email: [your email]
 - LinkedIn: [your link]
